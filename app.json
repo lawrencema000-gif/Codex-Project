@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Life RPG",
+    "slug": "life-rpg",
+    "scheme": "life-rpg",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.liferpg.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
